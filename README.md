@@ -8,5 +8,5 @@ A simple repo with branching.
 ## Author:
 Lenny Kioko.
 
-### License
+## License
 The app uses an MIT license
