@@ -1,4 +1,4 @@
-![Home Image](https://raw.github.com/lennykioko/Hello_world/master/image.jpg)
+![Home Image](https://raw.github.com/lennykioko/Hello_world/master/image.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
