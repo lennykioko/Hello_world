@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Hello World
+# cp-readiness
 A simple repo with branching.
 
-## Author:
-Lenny Kioko.
+## Author
+Lenny Kioko....simple, energetic and passionate about all to do with tech.
 
-### License
+## License
 The app uses an MIT license
